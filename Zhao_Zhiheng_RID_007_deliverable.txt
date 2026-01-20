@@ -1,0 +1,39 @@
+commit a1b80ba7c634232c551fbdfe8270abc07f640239
+Author: watshon14 <96321623+watshon14@users.noreply.github.com>
+Date:   Tue Jan 20 13:33:30 2026 -0800
+
+    Edit note in notes.txt from GitHub interface
+    
+    Added an edit note to the file from GitHub interface.
+
+commit 4158a360e2fc12b0aa41caf560863bb45fb4eb04
+Author: Zhiheng <zhao710828@gmail.com>
+Date:   Tue Jan 20 21:32:27 2026 +0000
+
+    added notes.txt
+
+commit 5a4c570fd8a341c82ed9ca29b04912c9f71ebac9
+Author: watshon14 <zhao710828@gmail.com>
+Date:   Tue Jan 20 16:17:08 2026 -0500
+
+    added log
+
+commit aa43774a11d697f0d0b47eaa4be5126fc1a50334
+Author: watshon14 <96321623+watshon14@users.noreply.github.com>
+Date:   Thu Jan 15 16:38:29 2026 -0800
+
+    Add description for local clone and GitHub push
+    
+    Added a description for creating a local clone and pushing to GitHub.
+
+commit 504cc22260299f4ac66eb9860a6a0864ffd7dd9e
+Author: watshon14 <zhao710828@gmail.com>
+Date:   Thu Jan 15 19:20:43 2026 -0500
+
+    Added first log entry
+
+commit 706e4ca9087963908368ae6dd0d8ad153562789d
+Author: watshon14 <96321623+watshon14@users.noreply.github.com>
+Date:   Thu Jan 15 15:12:39 2026 -0800
+
+    Initial commit
